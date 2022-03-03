@@ -22,8 +22,8 @@ class Container {
 
   getById(id) {
     try {
-    const products = fs.readFileSync('./products.txt');
-    return products.find((product) => id === product.id);
+      const products = fs.readFileSync("./products.txt");
+      return products.find((product) => id === product.id);
     } catch (error) {
       console.log(error);
     }
