@@ -1,0 +1,25 @@
+[
+    {
+    "title": "Escuadra",
+    "price": 200,
+    "thumbnail":
+      "https://http2.mlstatic.com/D_NQ_NP_971021-MLA32249366972_092019-O.jpg",
+    "id": 1
+  },
+
+  {
+    "title": "Globo Terráqueo",
+    "price": 1500,
+    "thumbnail":
+      "https://s3-sa-east-1.amazonaws.com/peluffo/d51dd02d-62f9-4ec0-9073-26a096ded4cd.jpg",
+    "id": 2
+  },
+
+    {
+    "title": "Calculadora",
+    "price": 2500,
+    "thumbnail":
+      "https://acf.geeknetic.es/imgri/imagenes/tutoriales/definiciones/2020/12/Calculadora-g841.jpg?f=webp",
+    "id": 3
+  }
+]
